@@ -1,4 +1,8 @@
 ## H1N1 & Seasonal Flu Vaccine Prediction
+
+#### Introduction
+This project analyzes the factors influencing seasonal flu vaccine uptake using machine learning. The goal is to build a predictive model that helps public health organizations identify groups that are less likely to get vaccinated, enabling them to design more targeted and effective public health campaigns.
+
 #### Project Overview
 
 This project uses the National 2009 H1N1 Flu Survey dataset to predict whether individuals received the seasonal flu vaccine. The dataset contains demographic, behavioral, and opinion-based features that influence vaccination uptake.
@@ -35,6 +39,18 @@ Demographics: age group, education, income, race, marital status, employment, ho
 
 Behaviors: handwashing, mask use, avoiding crowds, etc.
 
+
+#### Technologies Used
+Python: The primary programming language.
+
+Jupyter Notebook: For an interactive and step-by-step analysis.
+
+Pandas: Used for data manipulation and cleaning.
+
+Scikit-learn: The main machine learning library for model training and evaluation.
+
+Matplotlib & Seaborn: For data visualization.
+
 ### Results
 
 Logistic Regression outperformed Decision Tree in generalization with higher ROC AUC (~0.76).
@@ -51,7 +67,7 @@ Higher education & income levels
 
 ### Contributors
 
-Group 11 (Phase 3 Project)
+Group 11 (Phase 3 Project Members)
 
 ### Future Improvements
 
