@@ -1,11 +1,11 @@
 ## H1N1 & Seasonal Flu Vaccine Prediction
 
 #### Introduction
-* This project analyzes the factors influencing seasonal flu vaccine uptake using machine learning. The goal is to build a predictive model that helps public health organizations identify groups that are less likely to get vaccinated, enabling them to design more targeted and effective public health campaigns.
+ This project analyzes the factors influencing seasonal flu vaccine uptake using machine learning. The goal is to build a predictive model that helps public health organizations identify groups that are less likely to get vaccinated, enabling them to design more targeted and effective public health campaigns.
 
 #### Business Problem
 
-* The seasonal flu vaccine is one of the most effective strategies for reducing infection and preventing severe illness. However, uptake rates vary across demographic and socioeconomic groups. This project develops a machine learning model to predict whether an individual received the seasonal flu vaccine based on their demographics, health conditions, behaviors, and opinions from the National 2009 H1N1 Flu Survey.
+The seasonal flu vaccine is one of the most effective strategies for reducing infection and preventing severe illness. However, uptake rates vary across demographic and socioeconomic groups. This project develops a machine learning model to predict whether an individual received the seasonal flu vaccine based on their demographics, health conditions, behaviors, and opinions from the National 2009 H1N1 Flu Survey.
 
 #### Methodology
 
@@ -28,7 +28,7 @@
 ### Technologies Used
 * Python: The primary programming language.
 
-* Jupyter Notebook: For an interactive and step-by-step analysis.
+* Jupyter Notebook, VS Code: For an interactive and step-by-step analysis.
 
 * Pandas: Used for data manipulation and cleaning.
 
